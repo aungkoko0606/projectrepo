@@ -1,1 +1,1 @@
-# Initialize Git Repo. Conflict
+# Initialize Git Repo.
